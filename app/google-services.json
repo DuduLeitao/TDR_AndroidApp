@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10118727583",
+    "firebase_url": "https://tocadaraposa815.firebaseio.com",
+    "project_id": "tocadaraposa815",
+    "storage_bucket": "tocadaraposa815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10118727583:android:e764f412a7358719",
+        "android_client_info": {
+          "package_name": "com.example.tocadaraposa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10118727583-24h7jk0c6j2ikmnu3liktfv6a1vmaoht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATbIe2XyPYtN8JP-wX1taTTGcHlh-1NnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10118727583-24h7jk0c6j2ikmnu3liktfv6a1vmaoht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

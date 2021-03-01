@@ -1,0 +1,22 @@
+<resources>
+    // MAIN
+    <string name="app_name">TocaDaRaposa</string>
+
+    // BUTTON TEXT
+    <string name="button_text">Abrir portão</string>
+    <string name="welcome">Benvind</string>
+    <string name="form_congratulations">Perfil creado</string>
+
+    // DATA TEXT
+    <string name="name_title">name</string>
+    <string name="gender_title">gender</string>
+    <string name="to_app">à Toca da Raposa</string>
+    <string name="gate_state">gate_state</string>
+
+    // GENDERS
+    <string name="male">Homen</string>
+    <string name="female">Mulher</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
